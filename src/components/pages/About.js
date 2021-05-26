@@ -8,11 +8,18 @@ import { animationTwo, transition } from '../../animations';
 const About = () => {
     return (
         <motion.div
-            initial="out" animate="in" exit="out" variants={animationTwo}
+            initial="out"
+            animate="in"
+            exit="out"
+            variants={animationTwo}
             transition={transition}
         >
             <Header />
-            <Hero image={Image} title="Beautiful views" description="Never seen before" />
+            <Hero
+                image={Image}
+                title="Beautiful views"
+                description="Never seen before"
+            />
         </motion.div>
     )
 }

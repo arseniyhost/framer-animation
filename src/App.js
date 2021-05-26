@@ -11,9 +11,7 @@ const Section = styled.section`
   overflow-x: hidden;
 `
 
-
-
-function App() {
+const App = () => {
   let location = useLocation();
   return (
     <Section>
