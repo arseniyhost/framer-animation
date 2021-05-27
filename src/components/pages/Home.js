@@ -4,6 +4,7 @@ import Hero from '../Hero';
 import Image from '../../images/img-1.jpg';
 import { motion } from 'framer-motion';
 import { animationOne, transition } from '../../animations';
+import According from '../Dropdown/According';
 
 const Home = () => {
     return (
@@ -17,9 +18,10 @@ const Home = () => {
             <Header />
             <Hero
                 image={Image}
-                title="Experience Nature"
-                description="Once in a lifetime"
+                title="Experience"
+                description="You should know a lots information here"
             />
+            <According />
         </motion.div>
     )
 }

@@ -3,8 +3,9 @@ import styled from 'styled-components';
 
 
 const Section = styled.section`
-    background: url(${({ image }) => image && image}) center;
+    background: url(${({ image }) => image && image}) center center;
     background-size: cover;
+    background-position: 20% 22%;
     height: 100vh;
     display: flex;
     justify-content: flex-center;

@@ -34,11 +34,11 @@ const NavbarLink = styled(Link)`
 const Header = () => {
     return (
         <Navbar>
-            <Logo to="/">Animal</Logo>
+            <Logo to="/">Match</Logo>
             <NavItem>
                 <NavbarLink to="/">Home</NavbarLink>
-                <NavbarLink to="/about">About</NavbarLink>
-                <NavbarLink to="services">Services</NavbarLink>
+                <NavbarLink to="/todo">Todo</NavbarLink>
+                <NavbarLink to="/crypto">Crypto</NavbarLink>
             </NavItem>
         </Navbar>
     )
