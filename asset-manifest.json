@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/framer-animation/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/framer-animation/static/js/main.beeac86e.chunk.js",
-    "main.js.map": "/framer-animation/static/js/main.beeac86e.chunk.js.map",
-    "runtime-main.js": "/framer-animation/static/js/runtime-main.3e80ba1c.js",
-    "runtime-main.js.map": "/framer-animation/static/js/runtime-main.3e80ba1c.js.map",
-    "static/js/2.b80cb609.chunk.js": "/framer-animation/static/js/2.b80cb609.chunk.js",
-    "static/js/2.b80cb609.chunk.js.map": "/framer-animation/static/js/2.b80cb609.chunk.js.map",
-    "static/js/3.1cf14a93.chunk.js": "/framer-animation/static/js/3.1cf14a93.chunk.js",
-    "static/js/3.1cf14a93.chunk.js.map": "/framer-animation/static/js/3.1cf14a93.chunk.js.map",
+    "main.css": "/framer-animation/static/css/main.f78c31de.chunk.css",
+    "main.js": "/framer-animation/static/js/main.0aff8624.chunk.js",
+    "main.js.map": "/framer-animation/static/js/main.0aff8624.chunk.js.map",
+    "runtime-main.js": "/framer-animation/static/js/runtime-main.a237b003.js",
+    "runtime-main.js.map": "/framer-animation/static/js/runtime-main.a237b003.js.map",
+    "static/js/2.40230187.chunk.js": "/framer-animation/static/js/2.40230187.chunk.js",
+    "static/js/2.40230187.chunk.js.map": "/framer-animation/static/js/2.40230187.chunk.js.map",
+    "static/js/3.4bcfd590.chunk.js": "/framer-animation/static/js/3.4bcfd590.chunk.js",
+    "static/js/3.4bcfd590.chunk.js.map": "/framer-animation/static/js/3.4bcfd590.chunk.js.map",
     "index.html": "/framer-animation/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/framer-animation/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.b80cb609.chunk.js.LICENSE.txt": "/framer-animation/static/js/2.b80cb609.chunk.js.LICENSE.txt",
+    "static/css/main.f78c31de.chunk.css.map": "/framer-animation/static/css/main.f78c31de.chunk.css.map",
+    "static/js/2.40230187.chunk.js.LICENSE.txt": "/framer-animation/static/js/2.40230187.chunk.js.LICENSE.txt",
     "static/media/img-1.304e0211.jpg": "/framer-animation/static/media/img-1.304e0211.jpg",
-    "static/media/img-2.72e3ab30.jpg": "/framer-animation/static/media/img-2.72e3ab30.jpg",
-    "static/media/img-3.3b6070c4.jpg": "/framer-animation/static/media/img-3.3b6070c4.jpg"
+    "static/media/img-4.30f6bdc3.jpeg": "/framer-animation/static/media/img-4.30f6bdc3.jpeg",
+    "static/media/img-5.b6784697.jpeg": "/framer-animation/static/media/img-5.b6784697.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e80ba1c.js",
-    "static/js/2.b80cb609.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.beeac86e.chunk.js"
+    "static/js/runtime-main.a237b003.js",
+    "static/js/2.40230187.chunk.js",
+    "static/css/main.f78c31de.chunk.css",
+    "static/js/main.0aff8624.chunk.js"
   ]
 }
